@@ -1,6 +1,6 @@
 # Expresiones Regulares
 
-## Nom i cognoms
+## Eduard Peñas Balart 
 
 ## Tratamiento de ficheros de notas
 
